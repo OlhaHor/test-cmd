@@ -1,2 +1,2 @@
-# test-cmd
+# test-c
 goiT
